@@ -1,0 +1,15 @@
+C:/Users/hp/Desktop/final/hf.v {1 {vlog -work work -stats=none C:/Users/hp/Desktop/final/hf.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module comp_subm
+
+Top level modules:
+	comp_subm
+
+} {} {}} C:/Users/hp/Desktop/ash.v {1 {vlog -work work -stats=none C:/Users/hp/Desktop/ash.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module comp_h2
+
+Top level modules:
+	comp_h2
+
+} {} {}}

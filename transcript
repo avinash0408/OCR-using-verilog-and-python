@@ -1,0 +1,66 @@
+# Compile of template.v was successful.
+vsim -gui work.comp4
+# //  ModelSim PE Student Edition 10.4a Apr  7 2015 
+# //
+# //  Copyright 1991-2015 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# // NOT FOR CORPORATE OR PRODUCTION USE.
+# // THE ModelSim PE Student Edition IS NOT A SUPPORTED PRODUCT.
+# // FOR HIGHER EDUCATION PURPOSES ONLY
+# //
+# vsim -gui C:\Users\hp\Desktop\final\template.v 
+# Start time: 17:21:22 on Nov 25,2019
+# Loading work.comp4
+# Load canceled
+run -all
+#         871
+#         462
+quit -sim
+vsim -gui work.comp4
+# vsim 
+# Start time: 17:25:45 on Nov 25,2019
+# Loading work.comp4
+run -all
+#        1024
+#        1024
+# A
+quit -sim
+vsim -gui work.comp4
+# vsim 
+# Start time: 17:26:59 on Nov 25,2019
+# Loading work.comp4
+run -all
+#        1024
+#         453
+quit -sim
+vsim -gui work.comp4
+# vsim 
+# Start time: 17:28:13 on Nov 25,2019
+# Loading work.comp4
+quit -sim
+vsim -gui work.comp4
+# vsim 
+# Start time: 17:32:07 on Nov 25,2019
+# Loading work.comp4
+run -all
+#         869
+#         460
+vsim -gui work.comp4
+# vsim 
+# Start time: 17:35:04 on Nov 25,2019
+# Loading work.comp4
+run -all
+#         869
+#         460
+# End time: 18:21:51 on Nov 25,2019, Elapsed time: 0:46:47
+# Errors: 0, Warnings: 0
